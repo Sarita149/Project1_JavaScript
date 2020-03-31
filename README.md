@@ -1,1 +1,1 @@
-# Lab_HTML_CSS
+# Lab_JavaScript
